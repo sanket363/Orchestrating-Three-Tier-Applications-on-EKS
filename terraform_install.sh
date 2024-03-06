@@ -21,3 +21,5 @@ sudo apt update -y
 
 # Install Terraform from the HashiCorp repository
 sudo apt-get install terraform -y
+
+# Verify the installation
